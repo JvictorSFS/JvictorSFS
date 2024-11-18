@@ -1,6 +1,6 @@
 ### Olá eu sou João Victor
 
-- 🌱 Eu estou estudando sistema da informação
+- 🌱 olá eu sou o Victor, formado em sistema da informação, com experiência em suporte técnico, habilidades consolidadas em resolução de problemas e assistência tecnológica. Possuo conhecimentos em linguagem de programação Python, aplicados no desenvolvimento de scripts para automação e análise de dados.Tenho conhecimento em fundamentos de rede, incluindo configuração, manutenção e solução de problemas em infraestrutura. 
 
  <div>
   <a href="https://beacons.ai/JvictorSFS">
